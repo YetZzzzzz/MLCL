@@ -21,13 +21,6 @@ Download Link of MUsTARD: https://www.dropbox.com/s/w566pkeo63odcj5/mustard.pkl?
 ```
 Please rename the files as ur_funny.pkl and mustard.pkl, and move them into the directory ./datasets/.
 
-For CHERMA dataset, you can download from [LFMIM](https://github.com/sunjunaimer/LFMIM) through: 
-```
-https://pan.baidu.com/s/10PoJcXMDhRg4fzsq96A7rQ
-Extraction code: CHER
-```
-Please put the files into directory ./datasets/CHERMA0723/.
-
 ### Prerequisites:
 ```
 * Python 3.8.10
