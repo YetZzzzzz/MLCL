@@ -37,15 +37,15 @@ Downlaod the [BERT-base](https://huggingface.co/google-bert/bert-base-uncased/tr
 ### Citation:
 Please cite our paper if you find our work useful for your research:
 ```
-@ARTICLE{Zhuang2025multi,
+@ARTICLE{zhuang2025MLCL,
   author={Zhuang, Yan and Bai, Wei and Zhang, Yanru and Deng, Jiawen and Hu, Zheng and Zhang, Xiaoyue and Ren, Fuji},
   journal={IEEE Transactions on Multimedia}, 
   title={Multi-Level Contrastive Learning for Multimodal Sentiment Analysis}, 
   year={2025},
-  volume={},
+  volume={27},
   number={},
-  pages={1-15},
-  doi={10.1109/TMM.2025.3613116}}
+  pages={9044-9058},      
+  doi={10.1109/TMM.2025.3613116}} 
 ```
 
 ### Acknowledgement
